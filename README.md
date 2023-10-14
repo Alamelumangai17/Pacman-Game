@@ -1,6 +1,7 @@
-# Pacman-Game
+## Pacman-Game
+The provided HTML document appears to be a web page that simulates a game involving Pacman-like characters 
 
-Steps to run the code:
+Steps to run the project:
 
 step 1. HTML Structure:
    - The HTML file includes a basic structure with a <head> section defining the character set, viewport settings, and title.
@@ -28,6 +29,6 @@ step 5. movPacman() Function:
 step 6. setTimeout():
    - The movPacman() function is set to run repeatedly every 100 milliseconds using setTimeout(). This creates the illusion of continuous movement for the Pacman characters.
 
-Future Implementation of code
+Future Improvements
 
 Overall, this code creates a simple interactive game where you can add Pacman characters to the container and then start the game to see them move and bounce off the container boundaries. The Pacman characters change direction based on their position, giving them a playful appearance. The game continues until you close the browser tab or refresh the page.
